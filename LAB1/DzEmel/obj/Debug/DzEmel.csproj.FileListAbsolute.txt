@@ -1,0 +1,8 @@
+D:\Emel\Part_2\DzEmel\DzEmel\bin\Debug\DzEmel.exe.config
+D:\Emel\Part_2\DzEmel\DzEmel\bin\Debug\DzEmel.exe
+D:\Emel\Part_2\DzEmel\DzEmel\bin\Debug\DzEmel.pdb
+D:\Emel\Part_2\DzEmel\DzEmel\obj\Debug\DzEmel.csproj.AssemblyReference.cache
+D:\Emel\Part_2\DzEmel\DzEmel\obj\Debug\DzEmel.csproj.SuggestedBindingRedirects.cache
+D:\Emel\Part_2\DzEmel\DzEmel\obj\Debug\DzEmel.csproj.CoreCompileInputs.cache
+D:\Emel\Part_2\DzEmel\DzEmel\obj\Debug\DzEmel.exe
+D:\Emel\Part_2\DzEmel\DzEmel\obj\Debug\DzEmel.pdb
