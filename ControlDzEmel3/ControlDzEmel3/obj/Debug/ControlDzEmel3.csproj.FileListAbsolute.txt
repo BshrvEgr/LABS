@@ -1,0 +1,8 @@
+D:\Emel\Part_2\ControlDzEmel3\ControlDzEmel3\bin\Debug\ControlDzEmel3.exe.config
+D:\Emel\Part_2\ControlDzEmel3\ControlDzEmel3\bin\Debug\ControlDzEmel3.exe
+D:\Emel\Part_2\ControlDzEmel3\ControlDzEmel3\bin\Debug\ControlDzEmel3.pdb
+D:\Emel\Part_2\ControlDzEmel3\ControlDzEmel3\obj\Debug\ControlDzEmel3.csproj.AssemblyReference.cache
+D:\Emel\Part_2\ControlDzEmel3\ControlDzEmel3\obj\Debug\ControlDzEmel3.csproj.SuggestedBindingRedirects.cache
+D:\Emel\Part_2\ControlDzEmel3\ControlDzEmel3\obj\Debug\ControlDzEmel3.csproj.CoreCompileInputs.cache
+D:\Emel\Part_2\ControlDzEmel3\ControlDzEmel3\obj\Debug\ControlDzEmel3.exe
+D:\Emel\Part_2\ControlDzEmel3\ControlDzEmel3\obj\Debug\ControlDzEmel3.pdb
